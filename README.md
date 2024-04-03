@@ -13,3 +13,5 @@ LAB -6[IMPLEMENT K-NEAREST NEIGHBOR CLASSIFICATION USING CLASSIFIED MANUFACTURIN
 LAB -7[IMPLEMENT SUPPORT VECTOR MACHINE USING BREAST CANCER DATA](https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_07.ipynb)
 
 LAB -8[IMPLEMENT DECISION TREE CLASSIFIER USING LEADING CLIB DATA](https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_08.ipynb)
+
+LAB -9(https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_09.ipynb)
