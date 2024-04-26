@@ -14,4 +14,8 @@ LAB -7[IMPLEMENT SUPPORT VECTOR MACHINE USING BREAST CANCER DATA](https://github
 
 LAB -8[IMPLEMENT DECISION TREE CLASSIFIER USING LEADING CLIB DATA](https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_08.ipynb)
 
-LAB -9(https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_09.ipynb)
+LAB -9[ IMPLEMENT RANDOM FOREST ENSEMBLE CLASSIFIER USING LENDING CLUB DATA](https://github.com/vinuthnachilukuri/AIML-Lab/blob/main/AIML_LAB_09.ipynb)
+  
+LAB - 10 [IMPLEMENT K -MEANS CLUSTERING USING IRIS  DATA]()
+
+
